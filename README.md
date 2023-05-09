@@ -2,7 +2,7 @@
 
 First version of the project
 
-Days 16-18 of 100 Days Of Swift
+Days 30-31 of 100 Days Of Swift
 
 https://www.hackingwithswift.com/100
 
